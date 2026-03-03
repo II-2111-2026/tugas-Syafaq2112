@@ -16,7 +16,7 @@ def q01() -> bool:
 
 def q02() -> bool:
     """[T/F] Probabilitas kondisional P(A|B) selalu sama dengan P(B|A)."""
-    return False
+    return Fals
 
 def q03() -> bool:
     """[T/F] Teorema Bayes memungkinkan kita untuk membalik kondisi probabilitas dari
