@@ -17,7 +17,7 @@ def q01() -> bool:
 def q02() -> bool:
     """[T/F] Menambahkan komponen secara seri akan meningkatkan reliabilitas keseluruhan
 sistem."""
-    return Fals
+    return False
 
 def q03() -> bool:
     """[T/F] Reliabilitas total sistem seri selalu lebih kecil atau sama dengan reliabilitas
